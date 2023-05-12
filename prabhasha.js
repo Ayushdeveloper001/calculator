@@ -14,7 +14,7 @@ function SELECTIONS(div_clz,elmnt,color) {
     document.getElementById(div_clz).style.display = "block";
     elmnt.style.backgroundColor = color;
 
-  console.error("U.V.D. Kumuthu Prabhasha")
+  . Kumuthu )
   }
 
 var his_count = 1
@@ -144,7 +144,7 @@ const click_equal = (key) => {
 
   his_count = his_count + 1
 
-  document.getElementById('name').innerHTML = "POWERED BY: [Kumuthu Prabhasha]"
+  document.getElementById('name').innerHTML = "POWERED BY: [Ayush]"
 
   var onckick = document.getElementById('equal_audio')
   onckick.play()
